@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Abstract/Abstract.iml" filepath="$PROJECT_DIR$/Abstract/Abstract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Shape2D/Shape2D.iml" filepath="$PROJECT_DIR$/Shape2D/Shape2D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week9-uvyscengiz.iml" filepath="$PROJECT_DIR$/week9-uvyscengiz.iml" />
+    </modules>
+  </component>
+</project>
